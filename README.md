@@ -1,2 +1,2 @@
-# travel.winternals.net
-travel.winternals.net
+# travel.kernel.az
+travel.kernel.az
